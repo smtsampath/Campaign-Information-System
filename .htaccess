@@ -1,0 +1,4 @@
+ErrorDocument 404 http://localhost/CIS/public/index.php
+ErrorDocument 403 http://localhost/CIS/public/index.php
+Options -Indexes
+
